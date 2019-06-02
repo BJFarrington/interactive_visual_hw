@@ -1,0 +1,45 @@
+
+body {background: #96e2a6;
+  border: 2px solid rgba(58, 58, 58, 0.068);
+}
+.jumbotron {
+    /* background-image:url("https://freedesignfile.com/upload/2015/09/Funny-cartoon-bacteria-and-virus-vector-10.jpg"); */
+    background-image: url("http://www.natgeokids.com/wp-content/uploads/2017/03/Bacteria-can-see-1.jpg");
+    background-size: 120rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #96e2a6
+    /* background-size: cover; */
+   /* background: darkgray; */
+  }
+  
+  .container {
+    /* Absolute Position */
+   
+    background: #96e2a6;
+    border: 2px solid rgba(58, 58, 58, 0.068);
+  }
+
+  #pie {
+    background: #96e2a6;
+    border: 2px solid rgba(58, 58, 58, 0.068);
+  }
+
+  #bubble{
+    background: #96e2a6;
+    border: 2px solid rgba(58, 58, 58, 0.068);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+  }
+
+  #gauge {
+    background: #96e2a6;
+    border: 2px solid rgba(58, 58, 58, 0.068);
+  }
+
+
+  
+
+  
